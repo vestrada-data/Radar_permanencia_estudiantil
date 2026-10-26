@@ -45,7 +45,7 @@ Los factores que más se asocian con el abandono son los cursos reprobados, el e
 
 <img width="434" height="310" alt="Char3" src="https://github.com/user-attachments/assets/dfa4c6b8-b728-4725-9559-5882c5be8daf" />
 
-Limitaciones El modelo estima riesgo, no causalidad, y no predice con certeza el caso individual Los resultados corresponden a un conjunto de prueba con estudiantes que el modelo no vio.
+Limitaciones El modelo estima riesgo, no causalidad, y no predice con certeza el caso individual. 
 
 2. Los resultados del modelo nos arrojan que:
 - El 7o. semestre concentra el mayor riesgo  con un 14.7%, casi el doble que el segundo semestre.
