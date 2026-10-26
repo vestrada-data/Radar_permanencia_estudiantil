@@ -57,8 +57,8 @@ Limitaciones El modelo estima riesgo, no causalidad, y no predice con certeza el
   
   <img width="832" height="499" alt="PBI2" src="https://github.com/user-attachments/assets/5e8ec425-10e8-4c9a-9e2c-7a419cf5af5c" />
   4. El modelo es útil para priorizar, no para predecir con certeza. Los alumnos clasificados como riesgo alto abandonan casi 10 veces más que los de riesgo bajo (29.6 % vs. 3.1 %), por lo que concentrar los recursos de acompañamiento en ellos es más eficiente que atender a todos por igual. Sin embargo, 7 de cada 10 alumnos de riesgo alto no abandonan, por lo que el modelo debe usarse como una herramienta de alerta temprana y no como un diagnóstico individual.
+<img width="705" height="420" alt="PBI3" src="https://github.com/user-attachments/assets/969f90dc-e627-4331-8d0b-f219b6b2504b" />
 
-  <img width="821" height="491" alt="PBI3" src="https://github.com/user-attachments/assets/3a1df6a8-f9f5-4a7c-aac7-d2234bf4d8f8" />
 
 
 
