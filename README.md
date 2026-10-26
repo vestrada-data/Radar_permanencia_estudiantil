@@ -39,4 +39,6 @@ Estudiantes Graduados    <br>
 Principales insights:
 1. La operación de la empresa presenta un riesgo de concentración crítico. Al depender casi en su totalidad de la categoría 'Electrónica' 
 
-<img width="839" height="506" alt="Captura1" src="https://github.com/user-attachments/assets/60930cec-20d5-45f3-a795-ab9ba10feb07" />
+<img width="434" height="310" alt="Char3" src="https://github.com/user-attachments/assets/dfa4c6b8-b728-4725-9559-5882c5be8daf" />
+<img width="311" height="303" alt="chart1" src="https://github.com/user-attachments/assets/ff920684-30f7-4cca-a29f-5dfa84b838a5" />
+
