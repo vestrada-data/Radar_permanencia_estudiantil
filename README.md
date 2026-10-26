@@ -41,10 +41,24 @@ Principales insights:
 
 <img width="311" height="303" alt="chart1" src="https://github.com/user-attachments/assets/ff920684-30f7-4cca-a29f-5dfa84b838a5" />
 Los factores que más se asocian con el abandono son los cursos reprobados, el estrés financiero y ser de primera generación; el GPA alto y la beca se asocian con menos riesgo.
+
 <img width="434" height="310" alt="Char3" src="https://github.com/user-attachments/assets/dfa4c6b8-b728-4725-9559-5882c5be8daf" />
 
 Limitaciones El modelo estima riesgo, no causalidad, y no predice con certeza el caso individual Los resultados corresponden a un conjunto de prueba con estudiantes que el modelo no vio.
 
-2.
-3. <img width="838" height="508" alt="PB1" src="https://github.com/user-attachments/assets/1ddb5413-9ecb-438e-b6f6-55e93569f90b" />
+2. Los resultados del modelo nos arrojan que:
+- El 7o. semestre concentra el mayor riesgo  con un 14.7%, casi el doble que el segundo semestre.
+- Solo el 7% de los alumnos se graduan.
+- La tasa de abandono por semestre es de a un 10.2%, es decir 2040 alumnos.
+ <img width="838" height="508" alt="PB1" src="https://github.com/user-attachments/assets/1ddb5413-9ecb-438e-b6f6-55e93569f90b" />
+ 3. Dentro de los factors asociados al abandono encontramos que:
+- Destaca el número de cursos no aprobados. El riesgo se multiplica por 14, pasando de 5.3% si no tiene cursos reprobados a un 72.2% con  5 cursos no aprobados.
+- Los alumnos sin beca tienen un porcentaje 3.9 puntos mayor que los alumnos con beca. De 11.
+  
+  <img width="832" height="499" alt="PBI2" src="https://github.com/user-attachments/assets/5e8ec425-10e8-4c9a-9e2c-7a419cf5af5c" />
+  4. Los alumnos con riesgo de abandono alto, abandonan 9.7 veces más que los de riesgo bajo. Observamos en que el promedio del semestre también podría estar asociado al abandono escolar. 
+
+  <img width="821" height="491" alt="PBI3" src="https://github.com/user-attachments/assets/3a1df6a8-f9f5-4a7c-aac7-d2234bf4d8f8" />
+
+
 
