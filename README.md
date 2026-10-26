@@ -21,7 +21,7 @@ Estudiantes Inscritos - hoy <br>
 Estudiantes que Abandonaron   <br>
 Estudiantes Graduados    <br>
 % Abandono acumulado  <br>
-% Alumgnos Graduados    <br>
+% Alumnos Graduados    <br>
 % Tasa de abandono por semestre  <br>
 
 ## Proceso realizado
