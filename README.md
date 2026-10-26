@@ -52,11 +52,13 @@ Limitaciones El modelo estima riesgo, no causalidad, y no predice con certeza el
 - Solo el 7% de los alumnos se graduan.
 - La tasa de abandono por semestre es de a un 10.2%, es decir 2040 alumnos.
  <img width="838" height="508" alt="PB1" src="https://github.com/user-attachments/assets/1ddb5413-9ecb-438e-b6f6-55e93569f90b" />
+ 
  3. Dentro de los factors asociados al abandono encontramos que:
 - Destaca el número de cursos no aprobados. El riesgo se multiplica por 14, pasando de 5.3% si no tiene cursos reprobados a un 72.2% con  5 cursos no aprobados.
 - Los alumnos sin beca tienen un porcentaje 3.9 puntos mayor que los alumnos con beca. De 11.
   
   <img width="832" height="499" alt="PBI2" src="https://github.com/user-attachments/assets/5e8ec425-10e8-4c9a-9e2c-7a419cf5af5c" />
+  
   4. El modelo es útil para priorizar, no para predecir con certeza. Los alumnos clasificados como riesgo alto abandonan casi 10 veces más que los de riesgo bajo (29.6 % vs. 3.1 %), por lo que concentrar los recursos de acompañamiento en ellos es más eficiente que atender a todos por igual. Sin embargo, 7 de cada 10 alumnos de riesgo alto no abandonan, por lo que el modelo debe usarse como una herramienta de alerta temprana y no como un diagnóstico individual.
 <img width="705" height="420" alt="PBI3" src="https://github.com/user-attachments/assets/969f90dc-e627-4331-8d0b-f219b6b2504b" />
 
