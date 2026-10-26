@@ -56,7 +56,7 @@ Limitaciones El modelo estima riesgo, no causalidad, y no predice con certeza el
  </p>
  3. Dentro de los factors asociados al abandono encontramos que:
 - Destaca el número de cursos no aprobados. El riesgo se multiplica por 14, pasando de 5.3% si no tiene cursos reprobados a un 72.2% con  5 cursos no aprobados.
-- Los alumnos sin beca tienen un porcentaje 3.9 puntos mayor que los alumnos con beca. De 11.
+- Los alumnos sin beca tienen un porcentaje 3.9 puntos mayor que los alumnos con beca.
   <p align="center">
   <img width="782" height="449" alt="PBI2" src="https://github.com/user-attachments/assets/5e8ec425-10e8-4c9a-9e2c-7a419cf5af5c" />
   </p> 
