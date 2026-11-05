@@ -1,7 +1,7 @@
 # Radar de Permanencia Estudiantil
 
  ## 🎯 Objetivo 
-Este proyecto lo hice para aprender análisis predictivo. Construí un modelo de regresión logística para estimar el riesgo de abandono, lo evalué con ROC-AUC y PR-AUC.  Sirve para priorizar a quién apoyar, no para asegurar quién abandonará.
+Este proyecto lo hice para una universidad que quiere priorizar a quién acompañar. Construí un modelo de regresión logística para estimar el riesgo de abandono, lo evalué con ROC-AUC y PR-AUC.  Sirve para priorizar a quién apoyar, no para asegurar quién abandonará.
 
 Pregunta a responder: 
 ¿A qué estudiantes podemos contactar?
